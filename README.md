@@ -8,4 +8,4 @@ I’m **Ashish**, a MERN Stack Developer — passionate about building modern, r
 - 📫 Reach me at [ashish397868@gmail.com](mailto:ashish397868@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=ashish397868&color=brightgreen&style=flat&label=Profile%20Views)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashish397868&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ashish397868&theme=dark)](https://git.io/streak-stats)
